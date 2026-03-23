@@ -41,8 +41,8 @@ cssclasses: [home-page]
 **Модуль 0 — Инструменты**
 - [ ] [[00-toolkit/0.1-claude-products|0.1 — Где открывать Claude: чат, десктоп, Code, Cowork]]
 - [ ] [[00-toolkit/0.2-desktop-setup|0.2 — Десктопное приложение и первая настройка]]
-- [ ] [[0.4-llm-market|0.3 — Рынок LLM за 5 минут]]
-- [ ] [[0.5-model-choice|0.4 — Opus / Sonnet / Haiku — какая модель для чего]]
+- [ ] [[00-toolkit/0.3-llm-market|0.3 — Рынок LLM за 5 минут]]
+- [ ] [[00-toolkit/0.4-model-choice|0.4 — Opus / Sonnet / Haiku — какая модель для чего]]
 
 **Модуль 1 — Мышление перед запуском**
 - [ ] [[01-mindset/1.0-first-try|1.0 — Сначала попробуй ⚡]]
@@ -169,4 +169,4 @@ LMS или Brand Dashboard: Next.js + Vercel, командная работа, �
 ---
 
 *24 урока · ~4 часа · Только читай и делай*
-*Структура курса: English · Весь контент: Русский*
+
