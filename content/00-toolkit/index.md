@@ -20,14 +20,14 @@ tags: [module, toolkit]
 (Урок 0.2 — Десктопное приложение и первая настройка)
 *Установка, Projects, разница между вкладками*
 
-### [[0.4-llm-market|Lesson 0.3 — LLM Market in 5 Minutes]]
+### [[0.3-llm-market|Lesson 0.3 — LLM Market in 5 Minutes]]
 (Урок 0.3 — Рынок LLM за 5 минут)
 *Claude vs GPT vs Gemini — краткий ориентир*
 
-### [[0.5-model-choice|Lesson 0.4 — Opus / Sonnet / Haiku — Which Model for What]]
+### [[0.4-model-choice|Lesson 0.4 — Opus / Sonnet / Haiku — Which Model for What]]
 (Урок 0.4 — Opus / Sonnet / Haiku — какая модель для чего)
 *Таблица выбора с примерами из нашей работы*
 
 ---
 
-← [[../index|Home]] · [[../01-mindset/index|Module 1 →]]
+← [[../index|Home]] (Главная) · [[../01-mindset/index|Module 1 →]]
