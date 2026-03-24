@@ -37,4 +37,3 @@ tags: [prompt, reviews, analysis]
 ---
 
 ← [[../index|Home]]
-(← Главная)

@@ -29,4 +29,3 @@ tags: [module, project, practice]
 ---
 
 ← [[../02-strengths/index|Module 2]] · [[../04-build-and-ship/index|Module 4 →]]
-(← Модуль 2 · Модуль 4 →)

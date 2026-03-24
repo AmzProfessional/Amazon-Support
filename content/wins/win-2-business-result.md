@@ -32,4 +32,3 @@ tags: [win, milestone, amazon]
 ---
 
 ← [[../index|Home]]
-(← Главная)

@@ -33,4 +33,3 @@ tags: [win, milestone, project]
 ---
 
 ← [[../index|Home]]
-(← Главная)

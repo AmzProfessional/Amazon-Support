@@ -29,4 +29,3 @@ tags: [win, milestone]
 ---
 
 ← [[../index|Home]]
-(← Главная)

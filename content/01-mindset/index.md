@@ -37,4 +37,3 @@ tags: [module, mindset]
 ---
 
 ← [[../00-toolkit/index|Module 0]] · [[../02-strengths/index|Module 2 →]]
-(← Модуль 0 · Модуль 2 →)

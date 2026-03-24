@@ -36,4 +36,3 @@ tags: [module, build, deploy, design]
 ---
 
 ← [[../03-mini-project/index|Module 3]] · [[../05-full-project/index|Module 4 →]]
-(← Модуль 3 · Модуль 4 →)

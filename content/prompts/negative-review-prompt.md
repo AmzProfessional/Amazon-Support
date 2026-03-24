@@ -44,4 +44,3 @@ tags: [prompt, reviews, response]
 ---
 
 ← [[../index|Home]]
-(← Главная)

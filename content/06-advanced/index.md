@@ -24,4 +24,3 @@ tags: [module, advanced, scaling]
 ---
 
 ← [[../05-full-project/index|Module 4]] · [[../index|Home →]]
-(← Модуль 4 · Главная →)

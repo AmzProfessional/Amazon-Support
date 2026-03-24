@@ -37,4 +37,3 @@ tags: [module, project, team]
 ---
 
 ← [[../04-build-and-ship/index|Module 4]] · [[../06-advanced/index|Module 5 →]]
-(← Модуль 3 · Модуль 5 →)

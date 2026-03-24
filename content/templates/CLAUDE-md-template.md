@@ -39,4 +39,3 @@ tags: [template, claude-md]
 ---
 
 ← [[../index|Home]]
-(← Главная)

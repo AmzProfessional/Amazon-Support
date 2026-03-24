@@ -50,4 +50,3 @@ tags: [template, spec]
 ---
 
 ← [[../index|Home]]
-(← Главная)

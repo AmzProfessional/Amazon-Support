@@ -37,4 +37,3 @@ tags: [win, milestone, product]
 ---
 
 ← [[../index|Home]]
-(← Главная)
