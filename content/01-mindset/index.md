@@ -4,7 +4,7 @@ tags: [module, mindset]
 ---
 
 # Модуль 1 — Мышление перед запуском
-`5 уроков · ~35 минут`
+`7 уроков · ~45 минут`
 
 Самый важный модуль курса. Здесь не техника — здесь подход. Люди которые работают с Claude продуктивно, делают всё что в этом модуле. Те кто нет — получают случайные результаты.
 
@@ -13,6 +13,7 @@ tags: [module, mindset]
 ## Уроки
 
 ### [[1.0-first-try|Lesson 1.0 — Try First ⚡]]
+(Урок 1.0 — Сначала попробуй)
 *Пробуем без подготовки — видим что выходит — понимаем зачем курс*
 
 ### [[1.1-prompt-as-brief|Lesson 1.1 — Prompt as a Brief]]
@@ -30,6 +31,10 @@ tags: [module, mindset]
 ### [[1.5-handoff-files|Lesson 1.5 — How to Hand Off a Task]]
 (Урок 1.5 — Как передать задачу)
 
+### [[1.6-advanced-prompting|Lesson 1.6 — Advanced Prompting Techniques]]
+(Урок 1.6 — Продвинутые техники промтинга)
+
 ---
 
 ← [[../00-toolkit/index|Module 0]] · [[../02-strengths/index|Module 2 →]]
+(← Модуль 0 · Модуль 2 →)

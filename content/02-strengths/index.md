@@ -27,3 +27,4 @@ tags: [module, strengths, amazon]
 ---
 
 ← [[../01-mindset/index|Module 1]] · [[../03-mini-project/index|Module 3 →]]
+(← Модуль 1 · Модуль 3 →)

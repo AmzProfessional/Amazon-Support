@@ -51,6 +51,7 @@ cssclasses: [home-page]
 - [ ] [[01-mindset/1.3-test-first|1.3 — Тест до финального продукта]]
 - [ ] [[01-mindset/1.4-tech-stack|1.4 — Стек по умолчанию]]
 - [ ] [[01-mindset/1.5-handoff-files|1.5 — Как передать задачу]]
+- [ ] [[01-mindset/1.6-advanced-prompting|1.6 — Продвинутые техники промтинга]]
 
 **Модуль 2 — Где Claude действительно силён**
 - [ ] [[02-strengths/2.1-listings-seo|2.1 — Листинги и SEO-контент]]
@@ -64,16 +65,25 @@ cssclasses: [home-page]
 - [ ] [[03-mini-project/3.3-full-run|3.3 — Полный запуск + CLAUDE.md]]
 - [ ] [[03-mini-project/3.4-review|3.4 — Разбор и следующие шаги]]
 
-**Модуль 4 — Полноценный проект**
-- [ ] [[04-full-project/4.1-readme-spec|4.1 — Полный README + SPEC]]
-- [ ] [[04-full-project/4.2-nextjs-deploy|4.2 — Next.js + Vercel с нуля]]
-- [ ] [[04-full-project/4.3-team-workflow|4.3 — Командная работа с Claude]]
-- [ ] [[04-full-project/4.4-handoff|4.4 — Передача разработчику]]
+**Модуль 4 — Строим, деплоим, видим живой сайт**
+- [ ] [[04-build-and-ship/4.0-install-claude-code|4.0 — Установка Claude Code: Mac и Windows]]
+- [ ] [[04-build-and-ship/4.0b-terminal-git|4.0b — Терминал, Git и GitLab: минимум для старта]]
+- [ ] [[04-build-and-ship/4.1-design-brief|4.1 — Дизайн-бриф: референс, цвета, структура]]
+- [ ] [[04-build-and-ship/4.2-first-prompt-result|4.2 — После первого промта: что видишь и что делать]]
+- [ ] [[04-build-and-ship/4.3-hallucinations|4.3 — Галлюцинации: как замечать и исправлять]]
+- [ ] [[04-build-and-ship/4.4-render-deploy|4.4 — Деплой на Render за 5 минут]]
+- [ ] [[04-build-and-ship/4.5-iteration-loop|4.5 — Петля итерации: от черновика к готовому]]
+
+**Модуль 5 — Полноценный проект**
+- [ ] [[05-full-project/5.1-readme-spec|4.1 — Полный README + SPEC]]
+- [ ] [[05-full-project/5.2-nextjs-deploy|4.2 — Next.js + Vercel с нуля]]
+- [ ] [[05-full-project/5.3-team-workflow|4.3 — Командная работа с Claude]]
+- [ ] [[05-full-project/5.4-handoff|4.4 — Передача разработчику]]
 
 **Модуль 5 — Advanced**
-- [ ] [[05-advanced/5.1-agents|5.1 — Агенты и субагенты]]
-- [ ] [[05-advanced/5.2-mcp|5.2 — MCP — подключение внешних данных]]
-- [ ] [[05-advanced/5.3-hooks|5.3 — Hooks — Claude реагирует на события]]
+- [ ] [[06-advanced/6.1-agents|5.1 — Агенты и субагенты]]
+- [ ] [[06-advanced/6.2-mcp|5.2 — MCP — подключение внешних данных]]
+- [ ] [[06-advanced/6.3-hooks|5.3 — Hooks — Claude реагирует на события]]
 
 ---
 
@@ -88,8 +98,8 @@ cssclasses: [home-page]
 
 ### [[01-mindset/index|Module 1 — Mindset Before Launch]]
 (Модуль 1 — Мышление перед запуском)
-`6 уроков · ~35 минут` · **Начни здесь — самый важный модуль**
-Как говорить с Claude, spec-first подход, тест до продукта, выбор стека, передача задачи.
+`7 уроков · ~45 минут` · **Начни здесь — самый важный модуль**
+Как говорить с Claude, spec-first, тест до продукта, выбор стека, передача задачи, продвинутые техники промтинга.
 
 ---
 
@@ -107,15 +117,22 @@ cssclasses: [home-page]
 
 ---
 
-### [[04-full-project/index|Module 4 — Full Project]]
-(Модуль 4 — Полноценный проект)
+### [[04-build-and-ship/index|Module 4 — Build, Ship & See It Live]]
+(Модуль 4 — Строим, деплоим, видим живой сайт)
+`7 уроков · ~70 минут` · **Установка, Git, дизайн-бриф, Render**
+Установка Claude Code, терминал и Git, GitHub Desktop, дизайн-бриф с референсом, галлюцинации, деплой на Render.
+
+---
+
+### [[05-full-project/index|Module 5 — Full Project]]
+(Модуль 5 — Полноценный проект)
 `4 урока · ~60 минут` · **Реальный продукт для команды**
 LMS или Brand Dashboard: Next.js + Vercel, командная работа, передача разработчику.
 
 ---
 
-### [[05-advanced/index|Module 5 — Scaling · Advanced]]
-(Модуль 5 — Масштабирование · Advanced)
+### [[06-advanced/index|Module 6 — Scaling · Advanced]]
+(Модуль 6 — Масштабирование · Advanced)
 `3 урока · Для желающих углубиться`
 Агенты, MCP, Hooks — когда нужна автоматизация целых процессов.
 
@@ -138,9 +155,9 @@ LMS или Brand Dashboard: Next.js + Vercel, командная работа, �
 ## 📋 Шаблоны и референсы
 
 ### Шаблоны файлов
-- [[templates/SPEC-template|SPEC Template]] · (Шаблон SPEC.md) — описание задачи перед запуском
-- [[templates/CLAUDE-md-template|CLAUDE.md Template]] · (Шаблон CLAUDE.md) — инструкция для Claude в проекте
-- [[templates/Handoff-template|Handoff Template]] · (Шаблон передачи проекта) — документ для разработчика
+- [[templates/SPEC-template|SPEC.md]] — описание задачи перед запуском
+- [[templates/CLAUDE-md-template|CLAUDE.md]] — инструкция для Claude в проекте
+- [[templates/Handoff-template|Handoff.md]] — документ для передачи разработчику
 
 ### Референс-промты
 - [[prompts/listing-prompt|Listing & SEO Prompt]] · (Промт для листингов) — 3 варианта Title + bullets
@@ -168,5 +185,5 @@ LMS или Brand Dashboard: Next.js + Vercel, командная работа, �
 
 ---
 
-*24 урока · ~4 часа · Только читай и делай*
-
+*32 урока · ~5.5 часов · Только читай и делай*
+*Структура курса: English · Весь контент: Русский*

@@ -41,3 +41,4 @@ tags: [template, handoff]
 ---
 
 ← [[../index|Home]]
+(← Главная)

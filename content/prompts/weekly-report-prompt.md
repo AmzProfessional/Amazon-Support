@@ -42,4 +42,4 @@ tags: [prompt, reporting, weekly]
 ---
 
 ← [[../index|Home]]
-
+(← Главная)

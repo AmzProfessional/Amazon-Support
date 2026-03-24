@@ -2,6 +2,7 @@
 title: SPEC Template
 tags: [template, spec]
 ---
+
 # Шаблон SPEC.md
 
 Скопируй, заполни, сохрани рядом с проектом.
@@ -49,3 +50,4 @@ tags: [template, spec]
 ---
 
 ← [[../index|Home]]
+(← Главная)
